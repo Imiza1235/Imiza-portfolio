@@ -217,7 +217,7 @@ html {
 /* NAVBAR STYLING ENDS HERE */
 
 header {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/bg01.jpg");
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -232,9 +232,9 @@ header h2 {
   font-size: 75px;
 }
 .underText {
-  color: white;
+  color: rgba(185, 25, 25, 0.885);
   margin-top: 38px;
-  font-size: 16px;
+  font-size: 25px;
   padding: 10px;
 }
 .about-me {
@@ -283,20 +283,21 @@ header h2 {
   padding: 50px;
   text-indent: 50px;
   border-radius: 8px;
-  box-shadow: 0px 2px 10px 2px #132945;
+  box-shadow: 0px 2px 8px 2px #0e0d0dee;
   margin: 30px;
   flex: 1;
   font-size: large;
-  color: rgb(56, 55, 55);
+  color: rgb(153, 9, 23);
+  text-align: justify;
 }
 
 .about-img {
-  padding: 50px;
+  padding: 30px;
   margin-left: 10rem;
   flex: 1;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1500px) {
   div.about-img {
     margin: 0;
   }
@@ -310,7 +311,7 @@ header h2 {
         min-width: 400px;
     } */
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 300px) {
   div.about-img {
     padding: 0;
   }
@@ -344,6 +345,7 @@ header h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: justify;
     flex-direction: row;
     background-color: #132945;
     color: white;
@@ -352,7 +354,7 @@ header h2 {
 }
 
 .projects h2{
-    font-size: 50px;
+    font-size: 80px;
     position: relative;
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -362,7 +364,8 @@ header h2 {
     bottom: 0;
     width: 0%;
     height: 3%;
-    background-color: white;
+    text-align: justify;
+    background-color: rgb(213, 31, 31);
     animation: h2-bottom 1s infinite ease-in-out alternate;
 
 }
@@ -391,10 +394,10 @@ header h2 {
       overflow:hidden;
       width:350px;
       margin:0 auto;
-      background:#131B2F;
+      background:#266538;
       padding:20px;
       box-sizing:border-box;
-      text-align:center;
+      text-align:justify;
       box-shadow:0 10px 40px rgba(0,0,0,.5)
     }
     .testimotionals .card .layer {
