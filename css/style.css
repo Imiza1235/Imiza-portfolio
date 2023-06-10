@@ -251,6 +251,17 @@ header h2 {
   font-size: 50px;
   position: relative;
 }
+.projects {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 767px) {
+  .projects {
+      flex-direction: column;
+  }
+}
 .about-me h2::before {
   content: "";
   position: absolute;
