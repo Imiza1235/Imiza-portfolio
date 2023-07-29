@@ -1,75 +1,65 @@
-<h1 align="center"><em>Note: Claim Issues before making an PR</em></h1>
+# Portfolio
 
-<p align="center">
-    <h1>Portfolio Template</h1>
-</p>
+## About Me
+Welcome to my portfolio! I am Imtiyaz, an AI/ML student with a passion for coding and web development. My skills include AI/ML techniques, front-end (HTML, CSS, JavaScript), and back-end (React, Angular). I am a responsible professional who delivers high-quality work within deadlines. My creativity sets me apart, bringing fresh ideas and innovative solutions to projects. This portfolio showcases my coding and web development proficiency, highlighting my ability to leverage AI/ML techniques in web applications and optimize website performance. Let's collaborate!
 
-<div align="center">
+![About Me Image](link_to_about_me_image.png)
 
-<a href="https://github.com/rajmunkhan/basic-portfolio-template/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+## Projects
+### Student Result Management System
+Efficiently manage student information using MySQL, XAMPP, PHP, HTML, CSS, JavaScript, and Bootstrap. Streamline data management, registration, login, record management, and self-service options, enhancing user experience and administrative processes. [Click here](link_to_project1_demo)
 
-<a href="https://github.com/rajmunkhan/basic-portfolio-template/"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/ashutoshkrris/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template/"><img src="https://img.shields.io/github/repo-size/rajmunkhan/basic-portfolio-template.svg?label=Repo%20size&style=flat"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template/"><img src="https://img.shields.io/tokei/lines/github/rajmunkhan/basic-portfolio-template?color=yellow&label=Lines%20of%20Code"></a>
+### SpaceHacks 🪐
+In Spacehackcs’ “No Internet” game, you’re an astronaut on a mission to take humans to Mars. Prove yourself as a leader, navigate through asteroids and aliens to reach the red planet. [Live Demo](link_to_project2_demo)
 
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//watchers"><img src="https://img.shields.io/github/watchers/rajmunkhan/basic-portfolio-template"></a>
-  
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//graphs/contributors"><img src="https://img.shields.io/github/contributors/rajmunkhan/basic-portfolio-template?color=brightgreen"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//stargazers"><img src="https://img.shields.io/github/stars/rajmunkhan/basic-portfolio-template?color=0059b3"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//network/members"><img src="https://img.shields.io/github/forks/rajmunkhan/basic-portfolio-template?color=yellow"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//issues"><img src="https://img.shields.io/github/issues/rajmunkhan/basic-portfolio-template?color=brightgreen"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/rajmunkhan/basic-portfolio-template?color=0059b3"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//pulls"><img src="https://img.shields.io/github/issues-pr/rajmunkhan/basic-portfolio-template?color=yellow"></a>
-<a href="https://github.com/rajmunkhan/basic-portfolio-template//pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/rajmunkhan/basic-portfolio-template?color=brightgreen"></a> 
-</div>
+### Personal Portfolio
+My student portfolio is a comprehensive collection showcasing academic info, certificates, achievements, social media presence, and contact details. Highlighting my qualifications, skills, and achievements, it serves as a powerful tool for demonstrating my professional potential. [Click here](link_to_project3_demo)
 
-This repository is used to provide the free portfolio template
+### Face Recognition
+The Python-based Face Recognition Project utilizes computer vision techniques to detect and recognize faces. It employs libraries like OpenCV and dlib for face feature extraction and matching, demonstrating the potential for accurate and automated face recognition systems. [Project Details](link_to_project4_details)
 
+## Education
+**SECONDARY SCHOOL**
+- School Name: High School Kaliaganj, Araria
+- Board: Bihar School Examination Board Patna
+- Passing year: 2017
+- Result: 377/500(77.4%)
+- Location: Main Road Kaliaganj Palasi Araria, Bihar
 
+**HIGHER SECONDARY SCHOOL**
+- Institute Name: S.N.S.Y Rambagh College Purnea
+- Board: Bihar School Examination Board Patna
+- Passing Year: 2019
+- Result: 411/500(82.2%)
+- Location: Rambagh, Purnea, Bihar
 
-## Hacktoberfest
+**COLLEGE**
+- Institute Name: RNS Institute of Technology, Bengaluru
+- Branch: Artificial Intelligence And Machine Learning
+- Duration: 2020(DEC)-2024(june)
+- Result: 7.8 CGPA(till 5th sem)
+- Location: Dr. Vishnuvardhana Road Post, RNS Farms Rd, Channasandra, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098
 
-![Hacktoberfest](https://i.imgur.com/pZaosIp.png)
+## Skills
+- Java
+- C++
+- Python
+- Data Structures and Algorithms
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a global challenge organized by DigitalOcean. It encourages participation in giving back to the open-source community by completing pull requests and participating in events. You can sign up anytime between 1 and October 31. Pull requests can be submitted to this repo or any opted-in GitHub or GitLab repo. To complete successfully, you must make 4 approved pull requests (PRs). :tada:
+## Certificate
+- Certificate 1 (link_to_certificate1)
+- Certificate 2 (link_to_certificate2)
+- Certificate 3 (link_to_certificate3)
+- Certificate 4 (link_to_certificate4)
 
-[![Learn more](https://img.shields.io/badge/-Learn%20more-orange?style=plastic)](https://hacktoberfest.digitalocean.com/resources/participation)
+## Get In Touch
+- Your name
+- Email: a@florin-pop.com
+- Subject
+- Drop your Message
 
-
-## Prerequisite
-
-### Git & Github
-Here, we have mentioned the instructions to set up git. If you don't already know what Git is, check out this blog series on [iRead](https://iread.ga/series/1/git-and-github).
-
-- Login / Sign-up to [Github](https://github.com/login).
-- Download and install [Git](https://git-scm.com/downloads).
-- Configure git
-    - Launch terminal or command promt.
-    - Run the commands.
-        - `git config --global user.name "Your name"`
-        - `git config --global user.email "Your email address"` 
- - Optionally, you can [setup ssh keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to authenticate easily. 
-
-# How to contribute?
-
-We ♥ Contributors!
-
-You can solve issues or create issues to enhance the look of this template.
-
-To ensure your contributions count,  I implore you to follow the instructions mentioned in the [CONTRIBUTING.md](https://github.com/rajmunkhan/basic-portfolio-template/blob/master/CONTRIBUTING.md)  
-
-Happy Submissions
-
-All the Best!!
-
-# Project Maintainer
-
-![](https://avatars.githubusercontent.com/u/83774177?s=80&v=4)
-<br>[Rajmun Khan](https://github.com/rajmunkhan "View Profile")<br>
-
-# Project Contributors
-
-<a href="https://github.com/rajmunkhan/basic-portfolio-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rajmunkhan/basic-portfolio-template" />
-</a>
+© 2023 [Imtiyaz] | Some rights Reserved.
