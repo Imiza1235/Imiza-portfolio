@@ -217,15 +217,20 @@ html {
 /* NAVBAR STYLING ENDS HERE */
 
 header {
-  background-image: url("../img/bg01.jpg");
+  background-image: url("../img/bg03.jpg");
   background-size: cover;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  
 }
-
+#bgimage
+{
+  filter: blur(5px);
+  z-index: -1;
+}
 header h2 {
   color: white;
   font-family: "Source Sans Pro", sans-serif;
@@ -303,6 +308,7 @@ header h2 {
 }
 
 .about-img {
+  
   padding: 30px;
   margin-left: 10rem;
   flex: 1;

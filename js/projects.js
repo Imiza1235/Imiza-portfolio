@@ -5,7 +5,7 @@ let projects=[
     {projectName:"Claroom",projectDesc:"Here teacher can assign the tast and students can submit the pdf"},
 ]
 
-const text="I am a Frontend Developer and an Open Source Enthusiast ! "; //you can change the template here 
+const text="I am AIML Undergrad with keen passion for Technology "; //you can change the template here 
 
 let index=0;
 
