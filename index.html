@@ -65,13 +65,36 @@
         </ul>
     </div>
 </nav>
+<style>
+  header {
+      position: relative;
+  }
+
+  .back-video {
+      width: 50%;
+      height: auto;
+      position: absolute;
+      top: 5%;
+      left: 50%;
+      z-index: -1;
+  }
+
+  h2 {
+      position: relative; /* Add this to maintain proper stacking context */
+      z-index: 1; /* Add this to ensure the text is on top of the video */
+  }
+
+  /* Additional CSS for the rest of your elements here */
+
+</style>
+</head>
+<body>
 <header>
-    <h2>Hi 👋 I am Imtiyaz</h2>
-    <!-- <p class="underText">-This is my Portfolio</p> -->
-    <p class="underText" style="color: antiquewhite;"></p>
-    <div class="details">
+  <h2>Hi 👋 I am Imtiyaz</h2>
+  <p class="underText" style="color: antiquewhite;"></p>
+  <div class="details">
       <h3><br><br><a href="img/Resume.pdf"><button class="brand-title" style="color: solid rgb(255, 0, 132);background-color:rgb(29, 212, 56);border-radius: 5px;font-size: medium;">download cv </button></a></h3>
-    </div>
+  </div>
 </header>
 <section id="about-me" class="about-me"> 
   <h2>About Me</h2>
